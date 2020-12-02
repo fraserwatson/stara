@@ -1,0 +1,5 @@
+astropy
+numpy
+scikit-image
+sunpy
+jupyter
